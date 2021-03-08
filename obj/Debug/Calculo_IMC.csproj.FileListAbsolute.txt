@@ -1,0 +1,9 @@
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\bin\Debug\Calculo_IMC.exe.config
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\bin\Debug\Calculo_IMC.exe
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\bin\Debug\Calculo_IMC.pdb
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\obj\Debug\Calculo_IMC.Calculo_De_IMC.resources
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\obj\Debug\Calculo_IMC.Properties.Resources.resources
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\obj\Debug\Calculo_IMC.csproj.GenerateResource.cache
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\obj\Debug\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\obj\Debug\Calculo_IMC.exe
+C:\Users\vini-\Desktop\exercicios c#\Calculo_IMC\obj\Debug\Calculo_IMC.pdb
